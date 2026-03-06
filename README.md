@@ -53,6 +53,6 @@ Este projeto está configurado para deploy imediato na plataforma Render.
 
 
 #Imagem Conceitual:
-<img width="1990" height="1379" alt="image" src="https://github.com/user-attachments/assets/02866cb4-5e33-4728-86dd-c36fe23e5bdf" />
+<img width="2142" height="1374" alt="image" src="https://github.com/user-attachments/assets/520d46a8-8dfe-44a9-9591-6f38e1565827" />
 
 
